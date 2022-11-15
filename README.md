@@ -1,3 +1,3 @@
-#  JavaScript_small_projects
+#  JavaScript small projects
 
 List of amazing vanilla javascript practice projects.
